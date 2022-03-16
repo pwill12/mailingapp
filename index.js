@@ -120,11 +120,11 @@ app.post('/', function(req, res) {
 
     //     method: 'POST',
     //     // HOST: 'https://us14.api.mailchimp.com',
-    //     // path: '/3.0/lists/29a29d1aa5',
+    //     // path: '/3.0/lists/listId',
     //     path: '/v3/contact',
     //     headers: {
-    //         // 'Authorization': '77b966904ad9c7d84dcb2244680d9cad-us14',
-    //         'api-key': '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',
+    //         // 'Authorization': 'yourapikey',
+    //         'api-key': 'yourapikey',
 
     //         'Content-Type': 'application/json'
     //     }
@@ -167,8 +167,8 @@ app.listen(8888, function() {
 
 
 // api key
-// e8496ca0f680e29a1f51e34601046fa7-us14
+// your apikey
 
 // unique id
 
-// 29a29d1aa5
+// yourid
